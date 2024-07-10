@@ -1,6 +1,4 @@
-module.exports = {
-  // other webpack configurations
-  devServer: {
-    allowedHosts: 'all',
-  },
-};
+devServer: {
+  allowedHosts: 'all',
+}
+
