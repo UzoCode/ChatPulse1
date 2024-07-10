@@ -1,4 +1,3 @@
-// src/components/Chat.js
 import React from 'react';
 
 const Chat = () => {
